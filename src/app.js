@@ -1,2 +1,2 @@
-import world from '../world';
+import world from './world';
 console.log('hello ' + world);
