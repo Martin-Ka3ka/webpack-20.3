@@ -1,0 +1,24 @@
+{
+  "name": "webpack-20.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Ka3ka/webpack-20.3.git"
+  },
+  "author": "Martin Ka3ka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Ka3ka/webpack-20.3/issues"
+  },
+  "homepage": "https://github.com/Martin-Ka3ka/webpack-20.3#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
